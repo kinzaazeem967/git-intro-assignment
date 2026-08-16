@@ -2,3 +2,12 @@ Three things i have learned about Git are as follows:
 (1) Git is a version control system which is used to track the history and also used to collaborate.
 (2) Github is website that allows developers and researchers to store Git repositories. 
 (3) Github also manages the code using Git.
+
+Write a difference between git add, git commit and git push?
+git add stages your changes and tells Git which files you want to include in the next commit.
+git commit saves those staged changes as a snapshot in your local Git repository.
+git push uploads your commited changes from your local repository to the remote repository such as GitHub.
+In short;
+add -> prepare changes
+commit -> save changes
+push -> upload changes to GitHub
