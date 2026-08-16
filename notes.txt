@@ -1,0 +1,4 @@
+Three things i have learned about Git are as follows:
+(1) Git is a version control system which is used to track the history and also used to collaborate.
+(2) Github is website that allows developers and researchers to store Git repositories. 
+(3) Github also manages the code using Git.
